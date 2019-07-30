@@ -1,0 +1,11 @@
+C:\Users\henrique.rcunha1\CSharp\POO\PrimeiroPOO\bin\Debug\netcoreapp2.1\PrimeiroPOO.deps.json
+C:\Users\henrique.rcunha1\CSharp\POO\PrimeiroPOO\bin\Debug\netcoreapp2.1\PrimeiroPOO.runtimeconfig.json
+C:\Users\henrique.rcunha1\CSharp\POO\PrimeiroPOO\bin\Debug\netcoreapp2.1\PrimeiroPOO.runtimeconfig.dev.json
+C:\Users\henrique.rcunha1\CSharp\POO\PrimeiroPOO\bin\Debug\netcoreapp2.1\PrimeiroPOO.dll
+C:\Users\henrique.rcunha1\CSharp\POO\PrimeiroPOO\bin\Debug\netcoreapp2.1\PrimeiroPOO.pdb
+C:\Users\henrique.rcunha1\CSharp\POO\PrimeiroPOO\obj\Debug\netcoreapp2.1\PrimeiroPOO.csprojAssemblyReference.cache
+C:\Users\henrique.rcunha1\CSharp\POO\PrimeiroPOO\obj\Debug\netcoreapp2.1\PrimeiroPOO.csproj.CoreCompileInputs.cache
+C:\Users\henrique.rcunha1\CSharp\POO\PrimeiroPOO\obj\Debug\netcoreapp2.1\PrimeiroPOO.AssemblyInfoInputs.cache
+C:\Users\henrique.rcunha1\CSharp\POO\PrimeiroPOO\obj\Debug\netcoreapp2.1\PrimeiroPOO.AssemblyInfo.cs
+C:\Users\henrique.rcunha1\CSharp\POO\PrimeiroPOO\obj\Debug\netcoreapp2.1\PrimeiroPOO.dll
+C:\Users\henrique.rcunha1\CSharp\POO\PrimeiroPOO\obj\Debug\netcoreapp2.1\PrimeiroPOO.pdb
